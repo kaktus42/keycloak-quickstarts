@@ -55,7 +55,7 @@ kc.[sh|bat] start-dev
 
 Enable the Provider for a Realm
 -------------------------------
-Login to the <span>Keycloak</span> Admin Console and got to the User Federation tab.   You should now see your deployed providers in the add-provider list box.
+Login to the <span>Keycloak</span> Admin Console and go to the User Federation tab.   You should now see your deployed providers in the add-provider list box.
 For the `readonly-property-file` provider, all you need to do is add the provider and save it as it is hardcoded to point
 to the property file that comes with the deployment.  You will be able to login to the account service using the username `tbrady` and password
 of `superbowl`.
